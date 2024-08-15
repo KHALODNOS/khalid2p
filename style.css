@@ -1,0 +1,31 @@
+a {
+    text-decoration: underline;
+}
+
+.menu-text {
+    color: black;
+    font-size: 18px;
+    padding: 0 7px;
+    font-weight: bolder;
+}
+
+p {
+    color: black;
+    line-height: 1.8;
+}
+
+.wa {
+    width: 100%;
+    height: 100%;
+    margin: 1rem;
+    object-fit: cover;
+    padding: 2rem;
+}
+
+.wak {
+    width: 100%;
+    height: 30rem;
+    margin: 1rem;
+    object-fit: cover;
+    padding: 2rem;
+}
